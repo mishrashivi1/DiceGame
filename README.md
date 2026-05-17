@@ -32,7 +32,7 @@ The app displays:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/dicee.git
+   git clone https://github.com/mishrashivi1/DiceGame
    cd dicee
    ```
 
